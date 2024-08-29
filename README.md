@@ -1,11 +1,13 @@
-# Phishing para captura de senhas do Facebook
+# 🎯 Desafio Phishing - DIO
 
-### Ferramentas
+O desafio proposto tem origem na Formação Cybersecurity Specialist ofertado pela plataforma da DIO em que utilizamos a técnica de phishing para fazer a captura da senha do usuário do Facebook através de uma página falsa (ou clonada) da rede social.
+
+### 🛠 Ferramentas
 
 - Kali Linux
 - setoolkit
 
-### Configurando o Phishing no Kali Linux
+### ⚙ Configurando o Phishing no Kali Linux
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
@@ -16,6 +18,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### 🏆 Resutados
 
 ![Alt text](./passwd.png "Optional title")
